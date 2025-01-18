@@ -45,6 +45,7 @@ button {
     width:25%;
     float:left;
     background-color: #e3f3f5;
+    flex-direction: column;
 }
 footer {
     background-image: linear-gradient(#f4f4f9, white);
